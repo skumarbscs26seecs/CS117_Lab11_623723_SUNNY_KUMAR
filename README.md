@@ -22,6 +22,7 @@ Input:
 Output:
 
     Storage in MB: 5120.0
+    Storage in KB: 5120000.0
 
 ## Note
 This program treats 1 GB as 1024 MB.
