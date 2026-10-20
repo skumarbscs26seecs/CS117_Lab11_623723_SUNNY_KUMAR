@@ -32,4 +32,8 @@ This program treats 1 GB as 1024 MB.
 - CMS ID: 623723
 - Section: CS-16 B
 - Course: CS-117 Introduction to ICT, Lab 11
+<<<<<<< HEAD
 \n(main) 
+=======
+(feature) title change
+>>>>>>> feature/title-change
